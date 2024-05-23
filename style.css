@@ -1,0 +1,39 @@
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color:rgb(165, 245, 245);
+ }
+
+ .main-header {
+    font-size: 60px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-shadow:2px 2px 2px#000000;
+    text-decoration: underline;
+    padding-bottom:1cap;
+ }
+
+.main-links {
+    padding-left: 0;
+    font-size: 24px;
+    font-weight: thin;
+    text-align: center;
+}
+.main-links li {
+    list-style-position: inside;
+    list-style: none;
+    margin: 20px;
+ }
+
+ #recipe-header {
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    text-shadow:2px 2px 2px black
+
+ }
+
+ h2 {
+    text-align:center;
+ }
